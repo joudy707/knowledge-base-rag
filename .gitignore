@@ -1,0 +1,25 @@
+
+# Python virtual environments
+.rag_env/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets and environment variables
+.env
+.env.*
+
+# Allow the example environment file
+!.env.example
+
+# Local uploaded documents
+data/uploads/
+
+# IDE and operating system files
+.vscode/
+.DS_Store
+Thumbs.db

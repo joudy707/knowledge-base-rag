@@ -1,0 +1,5 @@
+FastAPI is a Python framework for building APIs. It uses Pydantic to validate request data.
+
+Retrieval-Augmented Generation, or RAG, combines information retrieval with language generation. A RAG system retrieves relevant document chunks before generating an answer.
+
+Chunking divides a long document into smaller pieces. Good chunking helps a retrieval system find relevant information without losing important context.
