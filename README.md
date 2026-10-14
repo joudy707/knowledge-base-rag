@@ -47,6 +47,8 @@ Additional libraries will be introduced as the project evolves.
 - Initial FastAPI application setup
 - Basic text chunking implementation
 - Environment setup for continued development
+- Implemented an embedding module for converting text into numerical vectors.
+- Implemented an initial in-memory vector search using cosine similarity.
 
 Document parsing, improved chunking, metadata handling, retrieval, and evaluation are part of the ongoing development roadmap. Update this section as each feature is implemented and tested.
 
