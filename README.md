@@ -49,6 +49,9 @@ Additional libraries will be introduced as the project evolves.
 - Environment setup for continued development
 - Implemented an embedding module for converting text into numerical vectors.
 - Implemented an initial in-memory vector search using cosine similarity.
+ - Implemented keyword-based retrieval using BM25.
+- Added text tokenization for English and Arabic text.
+- Preserved chunk metadata in retrieval results.
 
 Document parsing, improved chunking, metadata handling, retrieval, and evaluation are part of the ongoing development roadmap. Update this section as each feature is implemented and tested.
 

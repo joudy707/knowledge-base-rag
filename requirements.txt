@@ -5,3 +5,4 @@ PyMuPDF
 pytest
 sentence-transformers
 numpy
+rank-bm25
